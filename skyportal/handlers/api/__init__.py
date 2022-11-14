@@ -149,6 +149,7 @@ from .sysinfo import SysInfoHandler
 from .config_handler import ConfigHandler
 from .taxonomy import TaxonomyHandler
 from .telescope import TelescopeHandler
+from .test_comment import TestCommentHandler
 from .tns import ObjTNSHandler, SpectrumTNSHandler, TNSRobotHandler
 from .thumbnail import ThumbnailHandler, ThumbnailPathHandler
 from .user import (
