@@ -38,6 +38,7 @@ from .survey_efficiency import *
 from .stream import *
 from .taxonomy import *
 from .telescope import *
+from .test_comment import TestComment
 from .tns import *
 from .thumbnail import *
 from .user_notification import *
